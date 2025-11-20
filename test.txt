@@ -18,3 +18,5 @@ What if 'git difftool test'
 This 'text.txt' file is absolutely for THE CATS.
 
 this is 'food'.
+
+test for food branch second commit.
