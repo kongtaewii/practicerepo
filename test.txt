@@ -10,3 +10,5 @@ This line is added in second adjustment.
 test, test, 1234567890.
 
 git diff test
+
+git diff real test
