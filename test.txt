@@ -12,3 +12,7 @@ test, test, 1234567890.
 git diff test
 
 git diff real test
+
+What if 'git difftool test'
+
+This 'text.txt' file is absolutely for THE CATS.
