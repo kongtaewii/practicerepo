@@ -16,3 +16,5 @@ git diff real test
 What if 'git difftool test'
 
 This 'text.txt' file is absolutely for THE CATS.
+
+this is main.
